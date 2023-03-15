@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050459255879",
+    "project_id": "jack-digital-store",
+    "storage_bucket": "jack-digital-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050459255879:android:ff651bf9b8abfdeb072d62",
+        "android_client_info": {
+          "package_name": "com.jackdigitalstore.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050459255879-60nk4hmt48hvofmd9stnsjste0d8jit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfHFO-FUkkh3yp1MOJgpnwGSxGVbZO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050459255879-60nk4hmt48hvofmd9stnsjste0d8jit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
